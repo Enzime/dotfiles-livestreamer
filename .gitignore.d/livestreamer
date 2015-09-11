@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/livestreamer
+!/.config/livestreamer/config
+!/.gitignore.d
+!/.gitignore.d/livestreamer
