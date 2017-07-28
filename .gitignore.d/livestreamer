@@ -2,5 +2,7 @@
 !/.config
 !/.config/livestreamer
 !/.config/livestreamer/config
+!/.config/streamlink
+!/.config/streamlink/config
 !/.gitignore.d
 !/.gitignore.d/livestreamer
